@@ -1,0 +1,4 @@
+PROGRAM Test
+    IMPLICIT NONE
+    WRITE(*,*)"Hello Fortran"
+END PROGRAM
